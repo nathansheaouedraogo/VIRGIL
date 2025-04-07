@@ -1,0 +1,55 @@
+@@@@@@@
+@ HCl @
+@@@@@@@
+
+***************************
+* State Variables for HCl *
+***************************
+
+-------------------------------------------------
+State Variable                  Value      Units 
+Spring Constant (k)             478.0000   N·m⁻¹ 
+Mass 1                          35.4530    amu   
+Mass 2                          1.0078     amu   
+Reduced Mass (μ)                0.9800     amu   
+
+
+****************************
+* Zero-Order-Model for HCl *
+****************************
+--------------------------------------------------------------------------------
+Constant                        P-Branch   R-Branch   Average             Units 
+Fundamental Wavenumber:         2888.3684  2888.9510  (2888.6597±0.2060)  cm⁻¹  
+Fundamental Frequency:          86.5911    86.6086    (86.5998±0.0062)    THz   
+Equilibrium Radius:             1.7350     1.9539     (1.8444±0.0774)     Å     
+Moment of Inertia:              2.9500     3.7412     (3.3456±0.2797)     amu·Å²
+Rotational Constant:            5.7144     4.5060     (5.1102±0.4272)     cm⁻¹  
+
+
+*****************************
+* First-Order-Model for HCl *
+*****************************
+--------------------------------------------------------------------------------
+Constant                        P-Branch   R-Branch   Average             Units 
+Fundamental Wavenumber:         2885.0550  2885.1642  (2885.1096±0.0386)  cm⁻¹  
+Fundamental Frequency:          86.4918    86.4950    (86.4934±0.0012)    THz   
+Equilibrium Radius:             1.2908     1.2745     (1.2827±0.0058)     Å     
+Moment of Inertia:              1.6328     1.5919     (1.6123±0.0145)     amu·Å²
+Rotational Constant:            10.3243    10.5898    (10.4570±0.0939)    cm⁻¹  
+RoVib Coup. Constant:           0.2761     0.3156     (0.2958±0.0139)     cm⁻¹  
+
+
+******************************
+* Second-Order-Model for HCl *
+******************************
+--------------------------------------------------------------------------------
+Constant                        P-Branch   R-Branch   Average             Units 
+Fundamental Wavenumber:         2885.0544  2885.4026  (2885.2285±0.1231)  cm⁻¹  
+Fundamental Frequency:          86.4918    86.5022    (86.4970±0.0037)    THz   
+Equilibrium Radius:             1.2908     1.2865     (1.2887±0.0015)     Å     
+Moment of Inertia:              1.6329     1.6221     (1.6275±0.0038)     amu·Å²
+Rotational Constant:            10.3238    10.3927    (10.3583±0.0244)    cm⁻¹  
+RoVib Coupling Constant:        0.2764     0.2495     (0.2629±0.0095)     cm⁻¹  
+Centrifugal Dist. Const.:       -0.0000    0.0024     (0.0012±0.0008)     cm⁻¹  
+
+
