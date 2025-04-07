@@ -12,15 +12,12 @@ from output_data import outputData as out
 from custom_types import *
 from pathlib import Path
 
-# use if csv file in same dir as 'code' folder 
-csv_path = Path(cwd()).parent.absolute()
-
-# use if csv file in same dir as .py files
-# csv_path = cwd()
+# input path to csv file
+csv_path = 
 
 # input name of rovib spectra file here (NO file extension!)
-csv_name = 'dbr-toluene-spectra'
-rovib_spectra_csv = rf'{csv_path}/{csv_name}.csv'
+csv_name = 
+rovib_spectra_csv = rf'{cwd()}/{csv_name}.csv'
 
 # default plot dpi
 dpi = 600
